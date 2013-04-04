@@ -31,7 +31,7 @@ int main(){
 
 rungeKuttaCuartoOrden( x, y_1, y_2, h, n_pasos);
 
-
+printf(x);
 }
 
 
